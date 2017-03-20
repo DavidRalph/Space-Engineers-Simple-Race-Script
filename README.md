@@ -13,7 +13,7 @@ The script supports both linear (start to finish) and circuit (return to start) 
 
 ## Usage Instructions
 
-You will need to add triggers to your map for this script to function. You can add triggers by double tapping f11 in-game and adding them to entities. [A full guide can be found here](https://steamcommunity.com/sharedfiles/filedetails/?id=779965489)
+You will need to add triggers to your map for this script to function. You can add triggers by double tapping f11 in-game and adding them to entities. [A full guide can be found here.](https://steamcommunity.com/sharedfiles/filedetails/?id=779965489)
 
 Note that all trigger names are case sensitive and should not include apostrophes.
 
