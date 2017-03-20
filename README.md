@@ -1,4 +1,5 @@
 # Space-Engineers-Simple-Race-Script
+[Subscribe to this mod on the Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=887509748)
 
 This Visual Script mod is designed for easy creation of race courses in Space Engineers. Any existing map should be able to be easily adapted to utilise this script. Instructions for use can be found below.
 
@@ -43,3 +44,5 @@ I welcome feedback and feature requests.
 You are free to modify and redistribute this program in compliance with the GNU General Public License v3.0.
 
 Pull requests and issue posting encouraged!
+
+[Subscribe to this mod on the Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=887509748)
