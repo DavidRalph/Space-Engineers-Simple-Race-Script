@@ -44,6 +44,15 @@
           <string>System.String</string>
         </OuputTypes>
       </MyObjectBuilder_ScriptNode>
+      <MyObjectBuilder_ScriptNode xsi:type="MyObjectBuilder_OutputScriptNode">
+        <ID>1599881980</ID>
+        <Position>
+          <X>1863.74512</X>
+          <Y>404.470673</Y>
+        </Position>
+        <SequenceInputID>1694552637</SequenceInputID>
+        <Inputs />
+      </MyObjectBuilder_ScriptNode>
       <MyObjectBuilder_ScriptNode xsi:type="MyObjectBuilder_ArithmeticScriptNode">
         <ID>267271601</ID>
         <Position>
@@ -241,15 +250,6 @@
             <Value />
           </MyParameterValue>
         </InputParameterValues>
-      </MyObjectBuilder_ScriptNode>
-      <MyObjectBuilder_ScriptNode xsi:type="MyObjectBuilder_OutputScriptNode">
-        <ID>1599881980</ID>
-        <Position>
-          <X>1863.74512</X>
-          <Y>404.470673</Y>
-        </Position>
-        <SequenceInputID>1694552637</SequenceInputID>
-        <Inputs />
       </MyObjectBuilder_ScriptNode>
     </Nodes>
     <Name>AchieveOnce</Name>
