@@ -4,7 +4,8 @@
 This Visual Script mod is designed for easy creation of race courses in Space Engineers. Any existing map should be able to be easily adapted to utilise this script. Instructions for use can be found below.
 
 This script shows all players a notification when:
-- A ship is rendered immobile (either no cockpit or no power)
+- A player enters the cockpit of a ship
+- A named ship is rendered immobile (either no cockpit or no power)
 - A manned ship leaves the start area
 - A manned ship passes a waypoint (a named trigger)
 - A manned ship completes the course
@@ -34,10 +35,12 @@ The world should now be properly set up to use the mod.
 
 ## Known Issues
 - Waypoints are not enforced, meaning circuit races can be completed by leaving and then re-entering the start area.
-- Sometimes an unnamed grid will be announced as immobilised (this will only ever happen once per race).
 - Currently no support for multiple laps
 - Entering a cockpit at the finish in linear courses will immediately result in a course completed announcement.
 
+## Changelog
+- 20/03/17 - First public release
+- 21/03/17 - Added announcement when a player enters the cockpit of a ship + various fixes
 
 I welcome feedback and feature requests.
 
